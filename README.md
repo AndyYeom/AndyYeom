@@ -34,4 +34,4 @@
 
 ### 🌐 Connect With Me
 * 📧 Email: andyyeom00@gmail.com
-* 💼 LinkedIn
+* 💼 LinkedIn: https://www.linkedin.com/in/andyyeom00/
