@@ -23,7 +23,6 @@
   <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white" />
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/-MONAI-0069FF?style=flat-square&logo=monai&logoColor=white" />
   <img src="https://img.shields.io/badge/-Open3D-333333?style=flat-square&logo=open3d&logoColor=white" />
 </div>
 
