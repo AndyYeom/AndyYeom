@@ -1,7 +1,7 @@
 ## Hello World, I'm Andy Yeom 👋
 
 ### 🔍 Computer Vision Researcher & AI Enthusiast
-* 🎓 Final year Decision Analytics student at the University of Hong Kong
+* 🎓 Decision Analytics graduate from the University of Hong Kong
 * 🔬 My final year project: Rapid 3D Scene Inpainting
 * 👨‍💻 Research Assistant at HKU Li Ka Shing Faculty of Medicine - Digital Pathology & Medical AI
 * 🧠 Developing Multimodal Large Language Models for medical image analysis
