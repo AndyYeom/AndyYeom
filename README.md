@@ -1,7 +1,7 @@
 ## Hello World, I'm Andy Yeom 👋
 
 ### 🔍 Computer Vision Researcher & AI Enthusiast
-* 🎓 Artificial Intelligence Master at National University of Singapore & Decision Analytics graduate from the University of Hong Kong
+* 🎓 Artificial Intelligence Master at National University of Singapore & Decision Analytics graduate from University of Hong Kong
 * 🔬 My final year project: Rapid 3D Scene Inpainting
 * 👨‍💻 Research Assistant at HKU Li Ka Shing Faculty of Medicine - Digital Pathology & Medical AI / HKU Faculty of Statistics and Actuarial Science
 * 🧠 Developing Multimodal Large Language Models for medical image analysis
